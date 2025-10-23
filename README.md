@@ -3,6 +3,8 @@
 # 🧙‍♂️ O Senhor dos Estilos: A Sociedade do CSS  
 ### *Um guia mágico para dominar o poder dos estilos na Web*
 
+<img url="./O Senhor dos Estilos - capa.pdf">
+
 
 [![Feito com ChatGPT](https://img.shields.io/badge/Feito_com-ChatGPT_IA-blue?style=for-the-badge&logo=openai)](https://openai.com/chatgpt)
 [![Projeto DIO](https://img.shields.io/badge/Projeto-DIO_+_Universia-red?style=for-the-badge&logo=google-scholar)](https://www.dio.me)
@@ -101,7 +103,7 @@ O eBook está disponível para facilitar o acesso e a leitura:
 | `.pdf` | Versão final diagramada com capa e imagens | Leitura em qualquer dispositivo |
 
 📎 **Acesse o eBook completo:**  
-➡️ [📘 O Senhor dos Estilos - A Sociedade do CSS (PDF)](./O-Senhor-dos-Estilos.pdf)
+➡️ [📘 O Senhor dos Estilos - A Sociedade do CSS (PDF)](./O Senhor dos Estilos.pdf)
 
 ---
 
